@@ -14,7 +14,7 @@ function App() {
       <img className='imagepublic' src="/imageInPublic.jpg" />
     </div>
     <video width={320} height={240} controls>
-      <source src="myVideo.mp4" type="video/mp4" />
+      <source src="Quand a-t-on besoin d'utiliser React JS _.mp4" type="video/mp4" />
     </video>
   </div>
   
